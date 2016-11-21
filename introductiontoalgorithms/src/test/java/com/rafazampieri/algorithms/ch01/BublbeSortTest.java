@@ -1,19 +1,17 @@
-package com.rafazampieri.algorithms;
+package com.rafazampieri.algorithms.ch01;
 
 import java.util.Arrays;
 
 import org.junit.Test;
 
-import com.rafazampieri.algorithms.ch01.MergeSort;
-
-public class MergeSortTest {
+public class BublbeSortTest {
 	
-	private MergeSort mergeSort = new MergeSort();
+	private BubbleSort bubbleSort = new BubbleSort();
 	
 	@Test
 	public void testSort(){
 		Integer[] actual = getIntArray();
-		mergeSort.sort(actual);
+		bubbleSort.sort(actual);
 		
 		Integer[] expected = getIntArray();
 		Arrays.sort(expected);

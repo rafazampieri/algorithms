@@ -1,7 +1,5 @@
 package com.rafazampieri.algorithms.ch01;
 
-import com.rafazampieri.algorithms.Utils;
-
 public class SelectionSort {
 	
 	public void sort(Integer[] numbers){
