@@ -1,4 +1,4 @@
-package com.rafazampieri.algorithms.ch01;
+package com.rafazampieri.algorithms;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;

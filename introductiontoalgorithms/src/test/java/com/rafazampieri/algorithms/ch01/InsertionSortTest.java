@@ -5,7 +5,7 @@ import java.util.Collections;
 
 import org.junit.Test;
 
-import com.rafazampieri.algorithms.ch01.InsertionSort;
+import com.rafazampieri.algorithms.TestUtils;
 
 public class InsertionSortTest {
 	

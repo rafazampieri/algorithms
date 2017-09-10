@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
-import com.rafazampieri.algorithms.ch01.SelectionSort;
+import com.rafazampieri.algorithms.TestUtils;
 
 public class SelectionSortTest {
 	

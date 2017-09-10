@@ -4,6 +4,8 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
+import com.rafazampieri.algorithms.TestUtils;
+
 public class BublbeSortTest {
 	
 	private BubbleSort bubbleSort = new BubbleSort();
